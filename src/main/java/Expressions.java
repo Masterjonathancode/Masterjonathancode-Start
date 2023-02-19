@@ -1,18 +1,8 @@
-public class Expressions 
-{
-    boolean A = true; 
-    boolean B = false;  
-    public static void main(String[] args){
-        System.out.println("Hello World");
-        System.out.println("My name is Jonathan");
-      }
-}
-// Boolean class assignments denoted as either true or false.// 
-// The last set of lines of code are now copied from the "Hello World Program."//
 class Bool1{ 
   public static void main(String args[]){
 
 // these are boolean variables     
+// Boolean class assignments denoted as either true or false.// 
      boolean A = true;
      boolean B = false; 
      if(A|B)
@@ -30,8 +20,10 @@ class Bool1{
      System.out.println("(A|B)&A = "+((A|B)&A));
      else
      System.out.println("!=B = "+(A));
-  
+     System.out.println("Hello World");
+      System.out.println("My name is Jonathan");
      }
-  
+     
 }
 //This program prints out the Java boolean logical operators with logical conditions of if,else if, and else statements.// 
+// The last set of lines of code are now copied from the "Hello World Program."//
