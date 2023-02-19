@@ -1,3 +1,7 @@
+public class Expressions{
+  boolean A = true;
+  boolean B = false; 
+}
 class Bool1{ 
   public static void main(String args[]){
 
@@ -20,8 +24,7 @@ class Bool1{
      System.out.println("(A|B)&A = "+((A|B)&A));
      else
      System.out.println("!=B = "+(A));
-     System.out.println("Hello World");
-      System.out.println("My name is Jonathan");
+    
      }
      
 }
