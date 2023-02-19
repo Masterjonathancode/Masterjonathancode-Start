@@ -23,11 +23,8 @@ class Bool1{
      else if(A|B&A)
      System.out.println("(A|B)&A = "+((A|B)&A));
      else
-     System.out.println("!=B = "+(A));
-     System.out.println("Hello World");
-     System.out.println("My name is Jonathan");    
+     System.out.println("!=B = "+(A));   
      }
      
 }
 //This program prints out the Java boolean logical operators with logical conditions of if,else if, and else statements.// 
-// The last set of lines of code are now copied from the "Hello World Program."//
